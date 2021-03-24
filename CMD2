@@ -1,0 +1,29 @@
+PS C:\Users\XXXXX\desktop\python> cd Image-Conversion
+PS C:\Users\XXXXX\desktop\python\Image-Conversion> git pull
+remote: Enumerating objects: 13, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 12 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (12/12), 846.96 KiB | 1.04 MiB/s, done.
+From https://github.com/joelkothapally/Image-Conversion
+   1496f80..1459575  main       -> origin/main
+Updating 1496f80..1459575
+Fast-forward
+ bulbasaur.jpg  | Bin 0 -> 29327 bytes
+ bulbasaur.png  | Bin 0 -> 117130 bytes
+ charmander.jpg | Bin 0 -> 16625 bytes
+ charmander.png | Bin 0 -> 54303 bytes
+ pikachu.jpg    | Bin 0 -> 57986 bytes
+ pikachu.png    | Bin 0 -> 237427 bytes
+ squirtle.jpg   | Bin 0 -> 68480 bytes
+ squirtle.png   | Bin 0 -> 291338 bytes
+ 8 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 bulbasaur.jpg
+ create mode 100644 bulbasaur.png
+ create mode 100644 charmander.jpg
+ create mode 100644 charmander.png
+ create mode 100644 pikachu.jpg
+ create mode 100644 pikachu.png
+ create mode 100644 squirtle.jpg
+ create mode 100644 squirtle.png
+PS C:\Users\joelk\desktop\python\Image-Conversion>
